@@ -1,0 +1,21 @@
+############################################################
+### (O) Küme Kompozisyon Analizi (Ki-Kare Testi) Sonuçları ###
+############################################################
+
+--- 1. Kontenjans Tablosu (Gözlenen Frekanslar) ---
+cluster_name  Gürültü / Outlier  Küme 1 (Kırmızı)  Küme 2 (Yeşil)  Toplam
+window_name                                                              
+1d Window                     0                 1               0       1
+10d Window                    1                 1              21      23
+100d Window                  12                19             134     165
+Toplam                       13                21             155     189
+
+--- 2. Ki-Kare (Chi-Squared) Test İstatistikleri ---
+  Ki-Kare Değeri (chi2)   : 9.4776
+  Serbestlik Derecesi (dof): 4
+  p-değeri (p-value)       : 0.050210
+
+--- 3. Yorum ---
+  SONUÇ: p-değeri (0.050210) >= 0.05 olduğu için istatistiksel olarak ANLAMLI DEĞİLDİR.
+  -> 'window' tipi ile 'küme etiketi' arasında anlamlı bir ilişki bulunamamıştır (bağımsızdırlar).
+############################################################

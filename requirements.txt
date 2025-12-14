@@ -1,0 +1,12 @@
+requests
+pandas
+numpy
+matplotlib
+seaborn
+networkx
+scipy
+beautifulsoup4
+urllib3
+openpyxl
+astroquery
+tqdm
