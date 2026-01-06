@@ -1,5 +1,19 @@
 # Alien Puzzle Project: Orbital Resonance & Trajectory Analysis
 
+
+## Publication
+
+This repository contains the official implementation and supplementary data for the paper:
+**"The 'Hidden Highway' Hypothesis: Statistical Anomalies within the 6EQ=5UJ Formula as Navigational Markers"**
+
+You can access the full paper and technical report here: 
+👉 [https://doi.org/10.5281/zenodo.18160688](https://doi.org/10.5281/zenodo.18160688)
+
+### Citation
+If you use this code or hypothesis in your research, please cite it as:
+> Benli, T. O. (2026). The "Hidden Highway" Hypothesis: Statistical Anomalies within the 6EQ=5UJ Formula as Navigational Markers (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18160688
+
+
 ## Overview
 This project presents a comprehensive computational study on Solar System dynamics, focusing on the statistical analysis of orbital mechanics and trajectory optimization for interplanetary travel. By leveraging high-precision data from NASA/JPL Horizons and other astronomical databases, we analyze the distribution and resonance patterns of asteroids and major bodies. The project further implements advanced algorithms to calculate optimal transfer routes, minimizing energy consumption (delta-v) and travel time, effectively solving complex "puzzles" of celestial navigation.
 
