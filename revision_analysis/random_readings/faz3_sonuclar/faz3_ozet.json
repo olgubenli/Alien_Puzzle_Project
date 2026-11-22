@@ -1,0 +1,63 @@
+{
+ "formul_sayisi": 1000,
+ "H1": {
+  "1977'de >=1 eşleşme veren formül": 330,
+  "1977'de tam 1 eşleşme veren formül": 114,
+  "1977'de Thereus'u bulan formül": 10,
+  "1977'de TEK eşleşmesi Thereus olan formül": 9,
+  "yazar_n_1977": 1,
+  "yazar_lambda_kontrol": 1.9,
+  "yazar_P": 0.43374899574564185,
+  "P <= yazar olan rastgele formül oranı": 0.4484848484848485,
+  "Thereus bulanların en iyi sapması: yazardan iyi olan": 10
+ },
+ "H2": {
+  "güvenilir formül": 581,
+  "yazar 8. sapma (norm.)": 11.71135541270769,
+  "rastgele medyan": 7.633073586971018,
+  "(a) 8. sapması yazardan iyi/eşit oranı": 0.9036144578313253,
+  "yazar en büyük boşluk": 6.295848951011998,
+  "rastgele medyan boşluk": 3.719615642293392,
+  "(b) boşluğu yazardan büyük/eşit oranı": 0.05163511187607573,
+  "yazar lehine seçilen yüzdelik": 0.05163511187607573,
+  "sinyal anı: (a) oranı": 0.5798611111111112,
+  "sinyal anı: (b) oranı": 0.5538194444444444
+ },
+ "H3": {
+  "Top 8'i olan formül": 740,
+  "Truva + Hilda hikâyesi olan": 59,
+  "hikâye oranı": 0.07972972972972973,
+  "en az bir Truva": 0.30945945945945946,
+  "en az bir Hilda": 0.12972972972972974,
+  "yazarda hikâye": true
+ },
+ "Zaman": {
+  "yazar: sinyal anında korunan Top 8 üyesi": 0,
+  "rastgele (güvenilir) korunan dağılımı": {
+   "0": 451,
+   "1": 68,
+   "2": 20,
+   "3": 19,
+   "4": 11,
+   "5": 5,
+   "6": 4,
+   "7": 3
+  },
+  "rastgelelerin yazardan kararlı/eşit oranı": 1.0
+ },
+ "KARAR": {
+  "F3-H1": [
+   0.4484848484848485,
+   "şansla tutarlı (>%5)"
+  ],
+  "F3-H2": [
+   0.05163511187607573,
+   "şansla tutarlı (>%5)"
+  ],
+  "F3-H3": [
+   0.07972972972972973,
+   "şansla tutarlı (>%5)"
+  ],
+  "hipotez tuttu mu": false
+ }
+}
